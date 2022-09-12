@@ -1,0 +1,12 @@
+{
+  "name": "semantic-release-cargo",
+  "version": "1.0.0",
+  "description": "semantic-release plugin to publish a cargo package.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bogadana/semantic-release-cargo.git"
+  },
+  "author": "bogadana",
+  "license": "MIT"
+}
